@@ -37,8 +37,8 @@ PlayPod — это простое iOS-приложение для воспрои
 - @AppStorage и @EnvironmentObject — они помогают передавать данные и сохранять избранное.
 
 Скриншоты
-![main page](image-1.png)
-![player view](image-2.png)
+![main](image-1.png)
+![player_view](image-2.png)
 ![favorites](image-3.png)
 
 Обо мне
